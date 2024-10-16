@@ -1,7 +1,10 @@
 const express = require('express');
 const appServeer = express();
 let cors = require('cors');
+const path = require('path');
 appServeer.use(cors());
+appServeer.set("view engine","ejs");
+appServeer.use(express.static(path.join(__dirname,'public')));
 
 let userDetails = {
     "products": [
@@ -1809,7 +1812,7 @@ let userDetails = {
 
 
 appServeer.get('/', (req, res) => {
-    res.send("Hellow");
+    res.send("index");
 })
 appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
