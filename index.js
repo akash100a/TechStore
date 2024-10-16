@@ -1,5 +1,7 @@
 const express = require('express');
 const appServeer = express();
+let cors = require('cors');
+appServeer.use(cors());
 
 let userDetails = {
     "products": [
@@ -1809,16 +1811,16 @@ let userDetails = {
 appServeer.get('/', (req, res) => {
     res.send("Hellow");
 })
-appServeer.get('/akash/api/products', async (req,res) => {
+appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
         data: userDetails,
-        error:null,
+        error: null,
     })
 })
 
-appServeer.listen(4000,()=>{
+appServeer.listen(4000, () => {
     console.log("server is working");
-    
+
 })
 
 
