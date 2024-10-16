@@ -1814,7 +1814,7 @@ let userDetails = {
 
 
 appServeer.get('/', (req, res) => {
-    res.render("index.ejs");
+    res.render("index");
 })
 appServeer.get('/a', (req, res) => {
     res.send("AAAAAA");
