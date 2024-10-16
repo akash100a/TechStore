@@ -5,6 +5,8 @@ const path = require('path');
 appServeer.use(cors());
 appServeer.set("view engine","ejs");
 appServeer.use(express.static(path.join(__dirname,'public')));
+appServeer.use(express.urlencoded({extended:true}));
+
 
 let userDetails = {
     "products": [
