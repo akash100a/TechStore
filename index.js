@@ -1812,7 +1812,7 @@ let userDetails = {
 
 
 appServeer.get('/', (req, res) => {
-    res.send("index");
+    res.render("index");
 })
 appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
