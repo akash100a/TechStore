@@ -148,7 +148,7 @@ appServeer.get('/a', (req, res) => {
     res.send("AAAAAA");
 })
 appServeer.get('/b', (req, res) => {
-    res.render('display.html');
+    res.render('display.ejs');
 })
 appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
