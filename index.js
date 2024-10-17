@@ -144,9 +144,6 @@ let userDetails = {
 appServeer.get('/', (req, res) => {
     res.send("AKASH");
 })
-appServeer.get('/a', (req, res) => {
-    res.send("<h1>hellow</h1>");
-})
 appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
         data: userDetails,
