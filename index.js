@@ -3,9 +3,9 @@ const appServeer = express();
 let cors = require('cors');
 const path = require('path');
 appServeer.use(cors());
-appServeer.set("view engine", "ejs");
 appServeer.use(express.static(path.join(__dirname, 'public')));
 appServeer.use(express.urlencoded({ extended: true }));
+appServeer.set("view engine", "ejs");
 
 
 let userDetails = {
@@ -148,7 +148,7 @@ appServeer.get('/a', (req, res) => {
     res.send("AAAAAA");
 })
 appServeer.get('/b', (req, res) => {
-    res.render("read");
+    res.render('./display.html');
 })
 appServeer.get('/akash/api/products', async (req, res) => {
     res.json({
