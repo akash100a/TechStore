@@ -69,66 +69,115 @@ let userDetails = {
             "thumbnail": "https://akash100a.github.io/TechStore/public/images/pc.jpg"
         },        
         {
-            "id": 7,
-            "title": "Chanel Coco Noir Eau De",
-            "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
-            "category": "fragrances",
-            "price": 129.99,
-            "discountPercentage": 18.64,
-            "rating": 2.76,
-            "stock": 41,
+            "id": "23b849fa213d47b68f109b23",
+            "title": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-One PC",
+            "description": "The MSI Pro 16 Flex-036AU is a versatile 15.6-inch multitouch all-in-one PC designed for productivity and entertainment. Its flexible stand and sleek design make it ideal for various uses in both home and office environments.",
+            "category": "All-In-One PCs",
+            "price": 699.99,
+            "discountPercentage": 5,
+            "rating": 4.6,
+            "stock": 20,
             "tags": [
-                "fragrances",
-                "perfumes"
+                "All-In-One",
+                "Touchscreen",
+                "MSI",
+                "Windows 10"
             ],
-            "brand": "Chanel",
-            "sku": "K71HBCGS",
-            "weight": 4,
+            "brand": "MSI",
+            "sku": "PRO16FLEX036AU",
+            "weight": 8,
             "dimensions": {
-                "width": 21.27,
-                "height": 28,
-                "depth": 11.89
+                "width": 390,
+                "height": 260,
+                "depth": 45
             },
-            "warrantyInformation": "1 week warranty",
-            "shippingInformation": "Ships in 1 month",
+            "warrantyInformation": "2-year limited warranty",
+            "shippingInformation": "Ships within 3-5 business days",
             "availabilityStatus": "In Stock",
             "reviews": [
                 {
-                    "rating": 1,
-                    "comment": "Disappointing product!",
-                    "date": "2024-05-23T08:56:21.619Z",
-                    "reviewerName": "Lincoln Kelly",
-                    "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+                    "rating": 5,
+                    "comment": "Perfect for office use, very versatile!",
+                    "date": "2024-08-18T11:10:00.000Z",
+                    "reviewerName": "Alex Johnson",
+                    "reviewerEmail": "alex.johnson@example.com"
                 },
                 {
                     "rating": 4,
-                    "comment": "Great product!",
-                    "date": "2024-05-23T08:56:21.619Z",
-                    "reviewerName": "Lincoln Kelly",
-                    "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
-                },
-                {
-                    "rating": 4,
-                    "comment": "Excellent quality!",
-                    "date": "2024-05-23T08:56:21.619Z",
-                    "reviewerName": "Lucas Allen",
-                    "reviewerEmail": "lucas.allen@x.dummyjson.com"
+                    "comment": "Good value for money, but could use more ports.",
+                    "date": "2024-09-10T14:30:00.000Z",
+                    "reviewerName": "Emma Davis",
+                    "reviewerEmail": "emma.davis@example.com"
                 }
             ],
-            "returnPolicy": "60 days return policy",
-            "minimumOrderQuantity": 5,
+            "returnPolicy": "30-day return policy",
+            "minimumOrderQuantity": 1,
             "meta": {
-                "createdAt": "2024-05-23T08:56:21.619Z",
-                "updatedAt": "2024-05-23T08:56:21.619Z",
-                "barcode": "1435582999795",
+                "createdAt": "2024-10-17T12:35:00.000Z",
+                "updatedAt": "2024-10-17T12:35:00.000Z",
+                "barcode": "2210136217001",
                 "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
             },
             "images": [
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+                "/mnt/data/image 29.jpg"
             ],
-            "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+            "thumbnail": "https://akash100a.github.io/TechStore/public/images/touchpad.jpg"
+        },
+        {
+            "id": "12f049ab489d429b92873cde",
+            "title": "MSI Gaming Laptop GE66 Raider 15.6-Inch",
+            "description": "The MSI GE66 Raider is a powerful gaming laptop featuring a 15.6-inch display, RGB keyboard, and cutting-edge hardware for immersive gaming experiences. It’s equipped with high-end specs, making it perfect for gamers and creators alike.",
+            "category": "Gaming Laptops",
+            "price": 1799.99,
+            "discountPercentage": 7,
+            "rating": 4.8,
+            "stock": 12,
+            "tags": [
+                "Gaming",
+                "Laptop",
+                "MSI",
+                "RGB",
+                "GE66 Raider"
+            ],
+            "brand": "MSI",
+            "sku": "GE66RAIDER15",
+            "weight": 2.5,
+            "dimensions": {
+                "width": 358,
+                "height": 267,
+                "depth": 23
+            },
+            "warrantyInformation": "1-year limited warranty",
+            "shippingInformation": "Ships within 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Fantastic performance for gaming and content creation!",
+                    "date": "2024-07-29T15:10:00.000Z",
+                    "reviewerName": "Michael Lee",
+                    "reviewerEmail": "michael.lee@example.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great laptop but a bit heavy for portable use.",
+                    "date": "2024-08-05T10:45:00.000Z",
+                    "reviewerName": "Sarah Martin",
+                    "reviewerEmail": "sarah.martin@example.com"
+                }
+            ],
+            "returnPolicy": "30-day return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-10-17T12:40:00.000Z",
+                "updatedAt": "2024-10-17T12:40:00.000Z",
+                "barcode": "2210136217002",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "/mnt/data/image 29 (2).jpg"
+            ],
+            "thumbnail": "https://akash100a.github.io/TechStore/public/images/pc2.jpg"
         }
     ],
     "total": 194,
