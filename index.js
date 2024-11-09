@@ -63,10 +63,22 @@ The MSI MPG 491CQP QD-OLED is a top-tier gaming monitor designed to deliver an i
                 "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
             },
             "images": [
-                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp",
-                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-02-500x500.webp",
-                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-07-500x500.webp",
-                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-05-500x500.webp"
+                {
+                    id: "preview1",
+                    imgSource: "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp",
+                },
+                {
+                    id: "preview2",
+                    imgSource: "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-02-500x500.webp",
+                },
+                {
+                    id: "preview3",
+                    imgSource: "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-07-500x500.webp",
+                },
+                {
+                    id: "preview4",
+                    imgSource: "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-05-500x500.webp"
+                }
             ],
             "thumbnail": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp"
         },
