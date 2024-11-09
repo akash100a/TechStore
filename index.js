@@ -12,8 +12,9 @@ let userDetails = {
     "products": [
         {
             "id": "78c977fa587c412cbd573561",
-            "title": "MSI MPG GUNGNIR 110R Mid-Tower ARGB PC Case",
-            "description": "The MSI MPG GUNGNIR 110R is a high-performance mid-tower PC case that combines stunning ARGB lighting with a tempered glass side panel, offering excellent airflow, space for up to 6 fans, and support for radiators up to 360mm. It's designed for gamers and PC builders looking for style and functionality.",
+            "title": `MSI MPG 491CQP QD-OLED 49"DQHD 144Hz Curved Gaming Monitor`,
+            "description": `MSI MPG 491CQP QD-OLED 49" DQHD 144Hz Curved Monitor
+The MSI MPG 491CQP QD-OLED is a top-tier gaming monitor designed to deliver an immersive and high-performance gaming experience. Featuring a 49-inch QD-OLED panel with DQHD (5120 x 1440) resolution and 1800R curvature, it provides stunning clarity and a panoramic view that wraps around your field of vision. The 144Hz refresh rate and 0.3ms response time ensure ultra-smooth and responsive gameplay, while the 1,500,000:1 contrast ratio and VESA DisplayHDR True Black 400 certification offer deep blacks and vibrant colors. With multiple connectivity options, including HDMI, DisplayPort, and USB-C with 90W power delivery, and an ergonomic stand with tilt, swivel, and height adjustments, this monitor is designed for both performance and comfort. The MSI MPG 491CQP QD-OLED is the ultimate choice for gamers seeking the best in visual quality and gaming performance.`,
             "category": "PC Cases",
             "price": 129.99,
             "discountPercentage": 10,
@@ -62,12 +63,13 @@ let userDetails = {
                 "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
             },
             "images": [
-                "https://akash100a.github.io/TechStore/public/images/pc.jpg",
-                "https://cdn.msi.com/products/pc-case/gungnir-110r/image-1.png",
-                "https://cdn.msi.com/products/pc-case/gungnir-110r/image-2.png"
+                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-02-500x500.webp",
+                "https://cdn.msi.com/products/pc-case/gungnir-110r/image-2.png",
+                "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/491cqp-05-500x500.webp"
             ],
-            "thumbnail": "https://akash100a.github.io/TechStore/public/images/pc.jpg"
-        },        
+            "thumbnail": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/491cqp/mpg-491cqp-qd-oled-06-500x500.webp"
+        },
         {
             "id": "23b849fa213d47b68f109b23",
             "title": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-In-One PC",
