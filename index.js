@@ -124,6 +124,62 @@ let userDetails = {
             "thumbnail": "https://akash100a.github.io/TechStore/public/images/touchpad.jpg"
         },
         {
+            "id": "12f049ab489d429b92874cde",
+            "title": "MSI Gaming Laptop GE66 Raider 15.6-Inch Akash",
+            "description": "The MSI GE66 Raider is a powerful gaming laptop featuring a 15.6-inch display, RGB keyboard, and cutting-edge hardware for immersive gaming experiences. It’s equipped with high-end specs, making it perfect for gamers and creators alike.",
+            "category": "Gaming Laptops",
+            "price": 1799.99,
+            "discountPercentage": 7,
+            "rating": 4.8,
+            "stock": 12,
+            "tags": [
+                "Gaming",
+                "Laptop",
+                "MSI",
+                "RGB",
+                "GE66 Raider"
+            ],
+            "brand": "MSI",
+            "sku": "GE66RAIDER15",
+            "weight": 2.5,
+            "dimensions": {
+                "width": 358,
+                "height": 267,
+                "depth": 23
+            },
+            "warrantyInformation": "1-year limited warranty",
+            "shippingInformation": "Ships within 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Fantastic performance for gaming and content creation!",
+                    "date": "2024-07-29T15:10:00.000Z",
+                    "reviewerName": "Michael Lee",
+                    "reviewerEmail": "michael.lee@example.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great laptop but a bit heavy for portable use.",
+                    "date": "2024-08-05T10:45:00.000Z",
+                    "reviewerName": "Sarah Martin",
+                    "reviewerEmail": "sarah.martin@example.com"
+                }
+            ],
+            "returnPolicy": "30-day return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-10-17T12:40:00.000Z",
+                "updatedAt": "2024-10-17T12:40:00.000Z",
+                "barcode": "2210136217002",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "/mnt/data/image 29 (2).jpg"
+            ],
+            "thumbnail": "https://akash100a.github.io/TechStore/public/images/pc2.jpg"
+        },
+        {
             "id": "12f049ab489d429b92873cde",
             "title": "MSI Gaming Laptop GE66 Raider 15.6-Inch",
             "description": "The MSI GE66 Raider is a powerful gaming laptop featuring a 15.6-inch display, RGB keyboard, and cutting-edge hardware for immersive gaming experiences. It’s equipped with high-end specs, making it perfect for gamers and creators alike.",
