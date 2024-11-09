@@ -15,7 +15,7 @@ let userDetails = {
             "title": `MSI MPG 491CQP QD-OLED 49"DQHD 144Hz Curved Gaming Monitor`,
             "description": `MSI MPG 491CQP QD-OLED 49" DQHD 144Hz Curved Monitor
 The MSI MPG 491CQP QD-OLED is a top-tier gaming monitor designed to deliver an immersive and high-performance gaming experience. Featuring a 49-inch QD-OLED panel with DQHD (5120 x 1440) resolution and 1800R curvature, it provides stunning clarity and a panoramic view that wraps around your field of vision. The 144Hz refresh rate and 0.3ms response time ensure ultra-smooth and responsive gameplay, while the 1,500,000:1 contrast ratio and VESA DisplayHDR True Black 400 certification offer deep blacks and vibrant colors. With multiple connectivity options, including HDMI, DisplayPort, and USB-C with 90W power delivery, and an ergonomic stand with tilt, swivel, and height adjustments, this monitor is designed for both performance and comfort. The MSI MPG 491CQP QD-OLED is the ultimate choice for gamers seeking the best in visual quality and gaming performance.`,
-            "category": "PC Cases",
+            "category": "PC",
             "price": 129.99,
             "discountPercentage": 10,
             "rating": 4.7,
