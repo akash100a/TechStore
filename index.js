@@ -293,7 +293,7 @@ let userDetails = {
         },
         {
             "id": "12f050ab492d429b92873cde",
-            "title": "MSI Gaming Laptop GE66 Raider 15.6-Inch Aeyat",
+            "title": "MSI Gaming Laptop GE66 Raider 15.6-Inch",
             "description": "The MSI GE66 Raider is a powerful gaming laptop featuring a 15.6-inch display, RGB keyboard, and cutting-edge hardware for immersive gaming experiences. It’s equipped with high-end specs, making it perfect for gamers and creators alike.",
             "category": "Gaming Laptops",
             "price": 1799.99,
